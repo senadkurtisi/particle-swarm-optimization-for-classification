@@ -28,15 +28,15 @@ Number of neurons in each layer can be modified easily. Number of layers can be 
 The algorithm was run 20 times independently.
 Below you can see how the globally best solution (across all particles) changes for each of the runs. We can notice the decreasing trend for the classification error.
 
-![Globally best for all 20 runs](20_runs_all_gens.png)
+![Globally best for all 20 runs](imgs/20_runs_all_gens.png)
 
 Below you can see the best solution found in each of these 20 runs.
 
-![Globally best for all 20 runs](20_runs_final.png)
+![Globally best for all 20 runs](imgs/20_runs_final.png)
 
 Below you can see the best solution per generation averaged across these 20 runs.
 
-![Globally best for all 20 runs](20_runs_final.png)
+![Globally best for all 20 runs](imgs/20_runs_final.png)
 
 
 ### Evaluation on the test set
