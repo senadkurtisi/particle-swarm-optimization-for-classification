@@ -1,4 +1,4 @@
-# particle-swarm-optimization-for-classification
+# Particle Swarm Optimization For Classification
 Particle Swarm Optimization algorithm for detecting forged banknotes.
 
 ## The task
