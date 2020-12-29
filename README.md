@@ -36,7 +36,7 @@ Below you can see the best solution found in each of these 20 runs.
 
 Below you can see the best solution per generation averaged across these 20 runs.
 
-![Globally best for all 20 runs](imgs/20_runs_final.png)
+![Globally best for all 20 runs](imgs/20_runs_avg.png)
 
 
 ### Evaluation on the test set
